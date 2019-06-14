@@ -1,0 +1,1 @@
+# tdk-dictionary-chrome-extension
