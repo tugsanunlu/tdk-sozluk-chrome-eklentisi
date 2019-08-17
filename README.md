@@ -4,7 +4,7 @@
 
 > <strong>Chrome Web Store:</strong> https://chrome.google.com/webstore/detail/tdk-türkçe-sözlük/jnjmpncmhemcbbknebmcpclgmmmjbkcd
 
-![alt text](https://lh3.googleusercontent.com/6QeBV3-th6IIMM8F1DmM6H5FFKXPjjWZPjdjHFt8XFZIuPKrLIhEl54oLe63NoRc5LSDKElsLmA=w640-h400-e365)
+![tdk-dictionary-chrome-extension](https://user-images.githubusercontent.com/2070277/63212328-739d4b00-c10b-11e9-84a4-98db8a9c598c.png)
 
 ## Build Setup
 
