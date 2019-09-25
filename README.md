@@ -1,10 +1,12 @@
-# tdk-dictionary-chrome-extension
+# tdk-sozluk-chrome-eklentisi
 
-> TDK Türkçe Sözlük is a handy Turkish Dictionary extension for Google Chrome browser.
+> Google Chrome tarayıcısı için Türkçe sözlük eklentisi.
 
-> <strong>Chrome Web Store:</strong> https://chrome.google.com/webstore/detail/tdk-türkçe-sözlük/jnjmpncmhemcbbknebmcpclgmmmjbkcd
+> <strong>Chrome Web Mağazası:</strong> https://chrome.google.com/webstore/detail/tdk-türkçe-sözlük/jnjmpncmhemcbbknebmcpclgmmmjbkcd
 
 ![tdk-dictionary-chrome-extension](https://user-images.githubusercontent.com/2070277/63212328-739d4b00-c10b-11e9-84a4-98db8a9c598c.png)
+
+---
 
 ## Build Setup
 
